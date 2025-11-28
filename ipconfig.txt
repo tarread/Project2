@@ -1,0 +1,32 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-3RA9GFF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) PRO/1000 MT Desktop Adapter
+   Physical Address. . . . . . . . . : 08-00-27-FD-3A-A6
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fd17:625c:f037:2:f08c:c89d:1824:d400(Preferred) 
+   Temporary IPv6 Address. . . . . . : fd17:625c:f037:2:341d:5aaf:eca6:9c8f(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::a095:6ec8:b638:b8b7%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.0.2.15(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Tuesday, October 22, 1889 4:18:12 PM
+   Lease Expires . . . . . . . . . . : Saturday, November 29, 2025 7:46:29 AM
+   Default Gateway . . . . . . . . . : fe80::2%12
+                                       10.0.2.2
+   DHCP Server . . . . . . . . . . . : 10.0.2.2
+   DHCPv6 IAID . . . . . . . . . . . : 101187623
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-30-BA-D9-73-08-00-27-FD-3A-A6
+   DNS Servers . . . . . . . . . . . : 103.88.107.74
+                                       8.8.8.8
+                                       8.8.4.4
+   NetBIOS over Tcpip. . . . . . . . : Enabled

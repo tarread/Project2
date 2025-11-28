@@ -1,0 +1,11 @@
+
+Pinging google.com [172.217.194.113] with 32 bytes of data:
+Request timed out.
+Reply from 172.217.194.113: bytes=32 time=63ms TTL=255
+Reply from 172.217.194.113: bytes=32 time=66ms TTL=255
+Reply from 172.217.194.113: bytes=32 time=74ms TTL=255
+
+Ping statistics for 172.217.194.113:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 63ms, Maximum = 74ms, Average = 67ms
